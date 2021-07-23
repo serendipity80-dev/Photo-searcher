@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Photo-searcher
+
+A simple Photo search app, where I fetched the data from [Unsplash](https://unsplash.com/developers) using Axios. The users can search for their favorite photos using the right search term.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
